@@ -1,8 +1,6 @@
 # RacaBoonMenu
 
-If you like the addon send tips to Racaillorc <3
-
-A **Mythical Boon** manager for [Project Ascension](https://ascension.gg/en) Mythic+ dungeons (WoW 3.3.5).
+A **Mythical Boon** manager for [Project Ascension](https://project-ascension.com/) Mythic+ dungeons (WoW 3.3.5).
 
 Tracks the Mythical Boons in your bags, shows them as a clean icon grid with live timers, alerts you before an active buff expires, and shares boon availability with your group so everyone knows what's up.
 

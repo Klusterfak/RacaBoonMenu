@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: RacaBoonMenu
+## Notes: Tracks your Mythical Boons in Mythic+, shows reserve/active timers, alerts before a buff expires, and shares availability with your group. One-click use, minimap icon, fully customizable. (Tips appreciated, send to Racaillorc if you like the addon ;) )
+## Notes-frFR: Affiche vos Mythical Boons disponibles (objets dans les sacs) en Mythic+ et permet de les utiliser en un clic, y compris en combat. Affiche aussi les boons actifs, les boons alliés disponibles, et propose une icône minimap avec options personnalisables. (Tips appreciated, send to Racaillorc if you like the addon ;) )
+## Author: Racaillorc
+## Version: 3.01
+## SavedVariables: RacaBoonMenuDB
+
+RacaBoonMenu.lua
